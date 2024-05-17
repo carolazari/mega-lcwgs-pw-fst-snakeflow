@@ -1,1 +1,29 @@
-created file
+in config/
+we have a bams.tsv --> this contains the 
+sample	path	group
+s001	.test/data/bams/s001.bam	grpA
+
+not sure what the group refers to... maybe ask Anne. she run this before
+
+we also have a chroms.tsv
+chrom	num_bases
+CM031199.1	14000000
+
+list of chromosomes and the lenght?
+
+a config.yaml
+
+and the last file is a pwcomps.tsv 
+
+pop1	pop2
+grpA	grpB
+grpA	grpC
+grpB	grpC
+
+
+I am assuming this referst to the kid of pairwise comparisons we want to perform.
+
+on data/
+we have the .bam and .bai files that can be found under the mega-non-model results/ovelap_clipped
+
+

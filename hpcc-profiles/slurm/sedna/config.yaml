@@ -34,4 +34,5 @@ set-threads:
 set-resources:
   - calc_saf:mem_mb=18800
   - calc_2dsfs:mem_mb=24000
-  - calc_2dsfs_winsfs:mem_mb=47000
+  - calc_2dsfs_winsfs:mem_mb=7000
+  - calc_1dsfs_realSFS: mem_mb=47000

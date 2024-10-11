@@ -1,5 +1,5 @@
 bams: "example-configs/arg-nz-ca-trout/conf/CAxArg_bams.tsv"
-pwcomps: "example-configs/arg-nz-ca-trout/conf/CAxArg_pwcomps.tsv"
+pwcomps: "example-configs/arg-nz-ca-trout/conf/pwcomps.tsv"
 genome: "example-configs/arg-nz-ca-trout/data/genome.fasta"
 
 modes: ["BY_CHROM"]

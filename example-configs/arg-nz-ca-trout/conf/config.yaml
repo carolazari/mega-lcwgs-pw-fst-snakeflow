@@ -1,9 +1,9 @@
 bams: "example-configs/arg-nz-ca-trout/conf/bams.tsv"
-pwcomps: "example-configs/arg-nz-ca-trout/conf/pwcomps.tsv"
-genome: "example-configs/arg-nz-ca-trout/data/genome.fasta"
+pwcomps: "example-configs/arg-nz-ca-chinook/conf/pwcomps.tsv"
+genome: "example-configs/arg-nz-ca-chinook/data/genome.fasta"
 
 modes: ["BY_CHROM"]
-chroms: "example-configs/arg-nz-ca-trout/conf/chroms.tsv"
+chroms: "example-configs/arg-nz-ca-chinook/conf/chroms.tsv"
 
 
 # Note, to disable sliding windows, I think you might just be able to
@@ -20,3 +20,4 @@ params:
   fst_window_step: [10000, 5000,  20000]
   theta_window_size: [50000]
   theta_window_step: [10000]
+  

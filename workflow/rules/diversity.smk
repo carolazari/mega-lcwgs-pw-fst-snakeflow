@@ -9,6 +9,8 @@ rule calc_1dsfs_realSFS:
     rs=config["params"]["realSFS"],
     chunk_opt=get_chunk
   threads: 4
+  resources:
+    mem_mb=94000
   conda:
     "../envs/angsd.yaml"
   log:

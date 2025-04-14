@@ -11,7 +11,7 @@ cluster:
     --parsable
 default-resources:
   - time="23:00:00"
-  - mem_mb=4700
+  - mem_mb=10000
 restart-times: 0
 max-jobs-per-second: 10
 max-status-checks-per-second: 50
@@ -33,6 +33,6 @@ set-threads:
   - calc_2dsfs_winsfs=10
 set-resources:
   - calc_saf:mem_mb=18800
-  - calc_2dsfs:mem_mb=50000
-  - calc_2dsfs_winsfs:mem_mb=60000
-  - calc_1dsfs_realSFS:mem_mb=60000
+  - calc_2dsfs:mem_mb=98000
+  - calc_2dsfs_winsfs:mem_mb=98000
+  - calc_1dsfs_realSFS:mem_mb=98000

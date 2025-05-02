@@ -70,10 +70,10 @@ M019519	example-configs/arg-nz-ca-trout/files/M019519.bam	ArgSCR
 M019528	example-configs/arg-nz-ca-trout/files/M019528.bam	ArgSCR
 M019530	example-configs/arg-nz-ca-trout/files/M019530.bam	ArgSCR
 M019533	example-configs/arg-nz-ca-trout/files/M019533.bam	ArgSCR
-M019535	example-configs/arg-nz-ca-trout/files/M019535.bam	ArgNRDV
-M019536	example-configs/arg-nz-ca-trout/files/M019536.bam	ArgNRDV
-M019537	example-configs/arg-nz-ca-trout/files/M019537.bam	ArgNRDV
-M019538	example-configs/arg-nz-ca-trout/files/M019538.bam	ArgNRDV
+M019535	/share/swfsc/clazari/Omykiss/results_mega-non-model_CAxArg_March_2025/bqsr-round-0/overlap_clipped/M019535.bam	ArgNRDV
+M019536	/share/swfsc/clazari/Omykiss/results_mega-non-model_CAxArg_March_2025/bqsr-round-0/overlap_clipped/M019536.bam	ArgNRDV
+M019537	/share/swfsc/clazari/Omykiss/results_mega-non-model_CAxArg_March_2025/bqsr-round-0/overlap_clipped/M019537.bam	ArgNRDV
+M019538	/share/swfsc/clazari/Omykiss/results_mega-non-model_CAxArg_March_2025/bqsr-round-0/overlap_clipped/M019538.bam	ArgNRDV
 M019597	example-configs/arg-nz-ca-trout/files/M019597.bam	ArgSCR
 M019605	example-configs/arg-nz-ca-trout/files/M019605.bam	ArgSCR
 M019609	example-configs/arg-nz-ca-trout/files/M019609.bam	ArgSCR

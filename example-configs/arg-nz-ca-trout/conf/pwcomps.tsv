@@ -2,6 +2,5 @@ pop1	pop2
 CACVh	ArgNRDV
 CACVh	NZ
 CACo	ArgSCR
-ArgSCR  NZ
-NZ  ArgNRDV
-ArgNRDV ArgSCR 
+ArgNRDV	ArgSCR
+NZ	ArgNRDV

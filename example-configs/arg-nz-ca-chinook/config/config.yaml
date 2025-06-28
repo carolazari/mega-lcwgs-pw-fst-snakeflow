@@ -1,6 +1,6 @@
-bams: "example-configs/arg-nz-ca-chinook/config/bams.tsv"
+bams: "example-configs/arg-nz-ca-chinook/config/bams_gv1.tsv"
 pwcomps: "example-configs/arg-nz-ca-chinook/config/pwcomps.tsv"
-genome: "example-configs/arg-nz-ca-chinook/data/GCF_018296145.1_Otsh_v2.0_genomic.fna"
+genome: "/home/clazari/Projects/Chinook/mega-non-model-wgs-snakeflow/resources/genome_v1.fasta"  #make sure is the same reference genome that you used to run non-model and post-bcf pipelines
 
 modes: ["BY_CHROM"]
 chroms: "example-configs/arg-nz-ca-chinook/config/chroms.tsv"

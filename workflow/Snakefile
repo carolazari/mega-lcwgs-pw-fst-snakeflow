@@ -125,6 +125,3 @@ rule extract_fst_values:
     "results/benchmarks/extract_fst_values/{mode}/{chunk}/{p1}--x--{p2}.txt"
   shell:
     "realSFS fst stats {input} > {output} 2>{log} "
-    
-
-

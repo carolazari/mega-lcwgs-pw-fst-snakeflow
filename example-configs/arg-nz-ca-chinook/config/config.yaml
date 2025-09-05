@@ -1,4 +1,4 @@
-bams: "example-configs/arg-nz-ca-chinook/config/bams_gv2.tsv"
+bams: "example-configs/arg-nz-ca-chinook/config/bams_gv2_noEFSF.tsv"
 pwcomps: "example-configs/arg-nz-ca-chinook/config/pwcomps.tsv"
 #genome: "example-configs/arg-nz-ca-chinook/data/GCF_002872995.1_Otsh_v1.0_genomic.fna" 
 genome: "example-configs/arg-nz-ca-chinook/data/GCF_018296145.1_Otsh_v2.0_genomic.fna" #make sure is the same reference genome that you used to run non-model and post-bcf pipelines

@@ -1,6 +1,6 @@
 sample	path	group
-T200032	/home/clazari/Projects/Chinook/mega-non-model-wgs-snakeflow/results_CAxArg_v2_June25/bqsr-round-0/overlap_clipped/T200032.bam   YUK
-T200245	/home/clazari/Projects/Chinook/mega-non-model-wgs-snakeflow/results_CAxArg_v2_June25/bqsr-round-0/overlap_clipped/T200245.bam   YUK
+T200032	/home/clazari/Projects/Chinook/mega-non-model-wgs-snakeflow/results_CAxArg_v2_June25/bqsr-round-0/overlap_clipped/T200032.bam	YUK
+T200245	/home/clazari/Projects/Chinook/mega-non-model-wgs-snakeflow/results_CAxArg_v2_June25/bqsr-round-0/overlap_clipped/T200245.bam	YUK
 T200379	/home/clazari/Projects/Chinook/mega-non-model-wgs-snakeflow/results_CAxArg_v2_June25/bqsr-round-0/overlap_clipped/T200379.bam	YUK
 T200387	/home/clazari/Projects/Chinook/mega-non-model-wgs-snakeflow/results_CAxArg_v2_June25/bqsr-round-0/overlap_clipped/T200387.bam	YUK
 T200040	/home/clazari/Projects/Chinook/mega-non-model-wgs-snakeflow/results_CAxArg_v2_June25/bqsr-round-0/overlap_clipped/T200040.bam	YUK
@@ -55,7 +55,7 @@ T071897	/home/clazari/Projects/Chinook/mega-non-model-wgs-snakeflow/results_CAxA
 T071898	/home/clazari/Projects/Chinook/mega-non-model-wgs-snakeflow/results_CAxArg_v2_June25/bqsr-round-0/overlap_clipped/T071898.bam	OVA
 T071899	/home/clazari/Projects/Chinook/mega-non-model-wgs-snakeflow/results_CAxArg_v2_June25/bqsr-round-0/overlap_clipped/T071899.bam	OVA
 T071900	/home/clazari/Projects/Chinook/mega-non-model-wgs-snakeflow/results_CAxArg_v2_June25/bqsr-round-0/overlap_clipped/T071900.bam	OVA
-T204480	/home/clazari/Projects/Chinook/mega-non-model-wgs-snakeflow/results_CAxNZ_v2_June25/bqsr-round-0/overlap_clipped/T204480.bam    NZ
+T204480	/home/clazari/Projects/Chinook/mega-non-model-wgs-snakeflow/results_CAxNZ_v2_June25/bqsr-round-0/overlap_clipped/T204480.bam	NZ
 T204485	/home/clazari/Projects/Chinook/mega-non-model-wgs-snakeflow/results_CAxNZ_v2_June25/bqsr-round-0/overlap_clipped/T204485.bam	NZ
 T204486	/home/clazari/Projects/Chinook/mega-non-model-wgs-snakeflow/results_CAxNZ_v2_June25/bqsr-round-0/overlap_clipped/T204486.bam	NZ
 T204493	/home/clazari/Projects/Chinook/mega-non-model-wgs-snakeflow/results_CAxNZ_v2_June25/bqsr-round-0/overlap_clipped/T204493.bam	NZ
